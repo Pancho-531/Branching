@@ -1,4 +1,3 @@
 # Branching
 Como hacer ramas/branchings
-
-Francisco Isaac Zaragoza Delgado
+Francisco Isaac Zaragoza Delgado :D
